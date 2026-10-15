@@ -90,3 +90,4 @@ O sube el repo a GitHub: el workflow `.github/workflows/build.yml` compila el `.
 - Si el nametag queda muy alto o bajo, ajusta `y-offset` (global o por formato).
 - Subir `update-interval-ticks` reduce tráfico en servidores grandes.
 - No hay soporte para Folia.
+- Algunos recursos han sido hechos por IA usalo bajo tu propio riesgo
